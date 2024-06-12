@@ -1,0 +1,14 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(“ËÛºHÀ@RMINORZ
+CODE_SMELL
+v
+java:S1659	">Declare "i" and all following declarations on a separate line.(¦ÑÅžþÿÿÿÿ8þžæèû0HÍ@RMINORZ
+CODE_SMELL
+k	java:S106
+"9Replace this use of System.out or System.err by a logger.(Çõ¿Ú8þžæèû0HÓ@RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÞžÒ—üÿÿÿÿ8þžæèû0HÔ@RMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8þžæèû0HÕ@RMINORZ
+CODE_SMELL

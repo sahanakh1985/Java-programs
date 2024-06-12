@@ -1,0 +1,16 @@
+
+public class BitwiseANDOperator { 
+	public static void main(String[] args) {
+		
+		int a=5;
+		int b=7;
+		if(++a>=8 & ++b<=8) {
+		System.out.println("hello");
+		}else {
+		System.out.println("world");
+		}
+		System.out.println(a);
+		System.out.println(b);
+	}
+}
+

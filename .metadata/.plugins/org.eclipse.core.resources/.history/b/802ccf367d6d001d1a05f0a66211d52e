@@ -1,0 +1,46 @@
+package VehicleExample;
+
+public class RunnerVehicleExample {
+	public static void main(String[] args) {
+
+		Truck t = new Truck();
+		System.out.println(t);
+		t.color = "Red";
+		System.out.println(t.color);
+		t.brand = "Mahindra";
+		t.loadCapacity = 2000;
+		t.price = 200000;
+		System.out.println("After assigning the values");
+		System.out.println(t);
+		t.start();
+		t.stop();
+		t.dropLoad();
+
+		System.out.println("________________________________________________");
+
+		Car c = new Car();
+
+		c.color = "White";
+		System.out.println(c.color);
+		c.brand = "Kia"; 
+		c.price = 2000000;
+		System.out.println("After assigning the values");
+		System.out.println(t);
+		c.start();
+		c.stop();
+
+		System.out.println("________________________________________________");
+
+		Bike b = new Bike();
+
+		b.color = "Blue";
+		System.out.println(t.color);
+		b.brand = "Splender";
+		b.price = 100000;
+		System.out.println("After assigning the values");
+		System.out.println(t);
+		b.start();
+		b.stop();
+
+	}
+}

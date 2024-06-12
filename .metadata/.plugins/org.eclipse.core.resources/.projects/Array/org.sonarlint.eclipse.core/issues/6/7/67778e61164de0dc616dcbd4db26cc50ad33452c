@@ -1,0 +1,38 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¥ÎÛÙüÿÿÿÿ8˜÷¹ıĞ0HîRMAJORZ
+CODE_SMELL
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(–¯“›ùÿÿÿÿ8âµöõĞ0H×RMAJORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ó­•öĞ0HÙRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(˜İËø8çÃöĞ0HŞRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¥ÎÛÙüÿÿÿÿ8Á¨èõĞ0HÛRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ùëÙöĞ0HİRMAJORZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(¥ÎÛÙüÿÿÿÿ8ÌıĞ0H÷RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÕŒˆ8§øÅıĞ0HñRMAJORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(î¦²Úûÿÿÿÿ8É…­öĞ0HíRMAJORZ
+CODE_SMELL
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(Šï„¯şÿÿÿÿ8ÌıĞ0HöRMAJORZ
+CODE_SMELL
+p	java:S106("9Replace this use of System.out or System.err by a logger.(¥ÎÛÙüÿÿÿÿ8§øÅıĞ0HòRMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8çÃöĞ0HÚRMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8çÃöĞ0HßRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8É…­öĞ0HØRMAJORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(¥ÎÛÙüÿÿÿÿ8§øÅıĞ0HóRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¥ÎÛÙüÿÿÿÿ8ó­•öĞ0HÔRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(”’Õş8íãˆöĞ0HÕRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ùëÙöĞ0HÜRMAJORZ
+CODE_SMELL

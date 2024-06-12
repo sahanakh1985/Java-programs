@@ -1,0 +1,14 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‚гФжэяяяя8пйХжП0HњRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HќRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶эяяяя8пйХжП0HћRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ьиХ¬8нд‚зП0HџRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ЄУјбюяяяя8пйХжП0H RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Ч•њІ8пйХжП0HЎRMAJORZ
+CODE_SMELL

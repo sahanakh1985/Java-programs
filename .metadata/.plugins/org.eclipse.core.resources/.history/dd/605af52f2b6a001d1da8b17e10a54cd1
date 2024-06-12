@@ -1,0 +1,28 @@
+
+public class TShirt {
+	// constructor chaining program
+	String color;
+	char size;
+	double price;
+
+	TShirt(String color, char size, double price) {
+		this(size,color ,price);		//calling last constructor
+	}
+
+	TShirt(String color, double price) {
+		this('\u0000',color,price);//calling last constructor
+	}
+
+	TShirt(String color) {
+		this(color,'M',500.0);		//calling first constructor from third constructor
+		System.out.println("hello");
+	}
+
+	TShirt(char size, String color, double price) {
+		this.size = size;
+		this.color = color;
+		this.price = price;
+	}
+	
+
+}

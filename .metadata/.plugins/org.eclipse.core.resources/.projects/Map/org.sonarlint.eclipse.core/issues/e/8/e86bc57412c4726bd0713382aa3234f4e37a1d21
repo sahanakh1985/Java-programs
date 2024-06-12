@@ -1,0 +1,12 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ã¸¬¤ùÿÿÿÿ8§ÑõñÔ0H¤(RMAJORZ
+CODE_SMELL
+k
+java:S1128"9Remove this unused import 'java.awt.LinearGradientPaint'.(³Ò`8¾Ã¦òÔ0H¥(RMINORZ
+CODE_SMELL
+[
+java:S1481"(Remove this unused "lhs" local variable.(Òı·Ÿ8¾Ã¦òÔ0H§(RMINORZ
+CODE_SMELL
+j
+java:S1854"7Remove this useless assignment to local variable "lhs".(Òı·Ÿ8¾Ã¦òÔ0H©(RMAJORZ
+CODE_SMELL

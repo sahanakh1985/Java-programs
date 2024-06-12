@@ -1,0 +1,15 @@
+
+p
+java:S4143"DVerify this is the key that was intended; it was already set before.(×åš€8ÿÀùù0HŞRRMAJORZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ±Ëàøÿÿÿÿ8ÿÀùù0HàRRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¥ï¡8ÛÿĞùù0HáRRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ä©‚šÿÿÿÿÿ8ÉµÉùù0HâRRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(æ–İ€ÿÿÿÿÿ8ÉµÉùù0HãRRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(÷ ì²8ÛÿĞùù0HäRRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÆßÎ”şÿÿÿÿ8ÛÿĞùù0HåRRMAJORZ
+CODE_SMELL

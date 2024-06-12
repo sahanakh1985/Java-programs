@@ -1,0 +1,12 @@
+
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(¿×Î¶şÿÿÿÿ8¤ä£ø0Hæ<RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(©åË„şÿÿÿÿ8«ø0Hç<RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(™¯…‹8«ø0Hè<RMAJORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(Şñ¿Ü8¤ä£ø0Hé<RMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8«ø0Hê<RMINORZ
+CODE_SMELL

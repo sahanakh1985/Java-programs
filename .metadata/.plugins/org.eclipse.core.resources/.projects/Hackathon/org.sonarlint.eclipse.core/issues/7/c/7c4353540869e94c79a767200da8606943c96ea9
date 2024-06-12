@@ -1,0 +1,14 @@
+
+^
+java:S1481"&Remove this unused "s" local variable.(ÜêÆúÿÿÿÿ8øéÑ¾ü0H¦WRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ô¸§8»“¤¾ü0H§WRMAJORZ
+CODE_SMELL
+‹
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŠƒÆ8øéÑ¾ü0H¨WRMINORZ
+CODE_SMELL
+e
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8òŞ¾¾ü0HªWRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‘ÓÆŞ8»“¤¾ü0H¬WRMAJORZ
+CODE_SMELL

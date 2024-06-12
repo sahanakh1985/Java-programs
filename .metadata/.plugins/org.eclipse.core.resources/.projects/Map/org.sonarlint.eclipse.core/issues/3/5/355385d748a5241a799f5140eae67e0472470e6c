@@ -1,0 +1,29 @@
+
+u
+java:S4143"DVerify this is the key that was intended; it was already set before.(Ìú”ıÿÿÿÿ8›Êş‘Ô0Hø'RMAJORZBUG
+d
+java:S1602",Remove useless curly braces around statement(¹“°ıÿÿÿÿ8›Êş‘Ô0Hú'RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ŞÁÃ8›Êş‘Ô0Hû'RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(™°×ûÿÿÿÿ8›Êş‘Ô0Hü'RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8›Êş‘Ô0Hı'RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(—Ã£ùûÿÿÿÿ8›Êş‘Ô0Hş'RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(»ü«üşÿÿÿÿ8›Êş‘Ô0Hÿ'RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ß×‘Øüÿÿÿÿ8›Êş‘Ô0H€(RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ë€—Éşÿÿÿÿ8›Êş‘Ô0H(RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ñ±Ëàøÿÿÿÿ8›Êş‘Ô0H‚(RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8¸ŞµÔ0Hƒ(RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¡‘ûÿÿÿÿ8›Êş‘Ô0H„(RMAJORZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8›Êş‘Ô0H…(RMINORZ
+CODE_SMELL

@@ -1,0 +1,11 @@
+
+–
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ƒä”Ùúÿÿÿÿ8žæ… Ç0HßRMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HâRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¥ò¼Áÿÿÿÿÿ8žæ… Ç0HãRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8Çó¥ Ç0HäRMAJORZ
+CODE_SMELL

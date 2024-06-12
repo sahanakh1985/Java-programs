@@ -1,0 +1,12 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‹éÕ‚ÿÿÿÿÿ8¯Ç¸“Ê0H™
+RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HŒ
+RMINORZ
+CODE_SMELL
+‘
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "t".(òÅ»Šùÿÿÿÿ8À¶±“Ê0H’
+RMINORZ
+CODE_SMELL

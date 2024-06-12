@@ -1,0 +1,24 @@
+
+–
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(Óóœÿÿÿÿÿ8Ğò–¢Ç0H“RMINORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H–RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8°ğ ¢Ç0H—RMAJORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(¥µ¤ß8°ğ ¢Ç0H˜RMAJORZ
+CODE_SMELL
+‘
+java:S1488	"^Immediately return this expression instead of assigning it to the temporary variable "result".(Ò³´´8Ğò–¢Ç0H™RMINORZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(µ®¶¼8°ğ ¢Ç0HœRMAJORZ
+CODE_SMELL
+–
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(ƒä”Ùúÿÿÿÿ8Ğò–¢Ç0HRMINORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(¦îİüÿÿÿÿ8°ğ ¢Ç0H RMAJORZ
+CODE_SMELL
+‘
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(œ­€8Ğò–¢Ç0H¡RMINORZ
+CODE_SMELL

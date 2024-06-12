@@ -1,0 +1,36 @@
+package com.day4.operators;
+
+public class SampleOperatrs {
+	public static void main(String[] args) {
+		int a = 5;
+		// Unary operator
+		System.out.println(++a); // 6
+		System.out.println(a++);// 6
+		System.out.println(a);
+		System.out.println(--a);
+		System.out.println(a--);
+		System.out.println(a);
+
+		// Arithmetic operators
+		System.out.println(3 + 4); // 7
+		System.out.println(10 - 3); // 7
+
+		System.out.println(5 * 4); // 20
+		System.out.println(6 / 8); // 0
+		System.out.println(3 % 5); // 3
+
+		int x = 4;
+		int y = 8;
+		System.out.println(x > y);
+		System.out.println(x < y);
+		System.out.println(x >= y);
+		System.out.println(x <= y);
+		System.out.println(x != y);
+		System.out.println(x == y);
+		
+		float height=5.6F;
+		System.out.println(height<3.3);
+
+	}
+
+}

@@ -1,0 +1,5 @@
+package com.sortingofflightobjectsexample;
+
+public class CostPerTicketComparator {
+
+}

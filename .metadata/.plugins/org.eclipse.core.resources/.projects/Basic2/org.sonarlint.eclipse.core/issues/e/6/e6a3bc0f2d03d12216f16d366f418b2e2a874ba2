@@ -1,0 +1,10 @@
+
+‘
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8…‘‹Œ1HËPRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(şÿ•±8…‘‹Œ1HÌPRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ×¦h8…‘‹Œ1HÍPRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÊÙÃ—8…‘‹Œ1HÎPRMAJORZ
+CODE_SMELL

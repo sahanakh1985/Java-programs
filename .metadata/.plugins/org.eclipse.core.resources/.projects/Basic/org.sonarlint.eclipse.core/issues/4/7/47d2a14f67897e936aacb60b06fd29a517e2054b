@@ -1,0 +1,23 @@
+
+F
+java:S1220""Move this file to a named package.HÇRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¦‡Šò8¾ÓñÓÆ0HÈRMAJORZ
+CODE_SMELL
+k	java:S106
+"9Replace this use of System.out or System.err by a logger.(‘íôƒ8¾ÓñÓÆ0HÉRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(«Óæ„úÿÿÿÿ8¾ÓñÓÆ0HÊRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(°â³Ñ8¾ÓñÓÆ0HËRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(­¨±‡8¾ÓñÓÆ0HÌRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(§–Øð8¾ÓñÓÆ0HÍRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¹ð°Ïüÿÿÿÿ8¾ÓñÓÆ0HÎRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ë÷‹Ûÿÿÿÿÿ8¾ÓñÓÆ0HÏRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÁŠ€Öþÿÿÿÿ8¾ÓñÓÆ0HÐRMAJORZ
+CODE_SMELL

@@ -1,0 +1,17 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(­ãø»úÿÿÿÿH°HRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ùÄï”H£HRMAJORZ
+CODE_SMELL
+i	java:S106	"9Replace this use of System.out or System.err by a logger.(ÄÑàžþÿÿÿÿH±HRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(þÞ„¾üÿÿÿÿH§HRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ê˜ôèýÿÿÿÿH¢HRMAJORZ
+CODE_SMELL
+d	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ô”ºéH¥HRMAJORZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8É´ßë„1H²HRMINORZ
+CODE_SMELL

@@ -1,0 +1,8 @@
+
+k	java:S106	"9Replace this use of System.out or System.err by a logger.( öò8ìªÎşÎ0HáRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æ„³àúÿÿÿÿHâRMINORZ
+CODE_SMELL
+n
+java:S1610";Convert the abstract class "AbstractSim" into an interface.(ÒŸ£‰8…Ó²ıÎ0HàRMINORZ
+CODE_SMELL

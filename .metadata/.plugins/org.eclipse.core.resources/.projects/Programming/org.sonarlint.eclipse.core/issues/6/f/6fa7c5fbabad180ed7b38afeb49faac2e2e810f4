@@ -1,0 +1,15 @@
+
+k
+java:S2589"8Remove this expression which always evaluates to "false"(½äµò8šƒðøÆ0HïTRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ýÿÿÿÿ8šƒðøÆ0HðTRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8šƒðøÆ0HñTRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8Œ‘‰ùÆ0HòTRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(”óäëüÿÿÿÿ8šƒðøÆ0HóTRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HôTRMINORZ
+CODE_SMELL

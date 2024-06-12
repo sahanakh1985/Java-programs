@@ -1,0 +1,12 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ùÓ”ªø0H¼9RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¬··Å8ÑˆÉ©ø0H›9RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8ùÓ”ªø0H¸9RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ýÿÿÿÿ8œÆÇ©ø0Hµ9RMAJORZ
+CODE_SMELL
+p
+java:S2589"8Remove this expression which always evaluates to "false"(¾„þƒýÿÿÿÿ8ùÓ”ªø0H·9RMAJORZ
+CODE_SMELL

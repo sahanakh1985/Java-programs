@@ -1,0 +1,7 @@
+
+public class ResultIdentifier {
+	void printResult(int subject1,int subject2,int subject3) {
+		System.out.println("Average marks of all subjects = "+(subject1+subject2+subject3)/3);
+	}
+
+}

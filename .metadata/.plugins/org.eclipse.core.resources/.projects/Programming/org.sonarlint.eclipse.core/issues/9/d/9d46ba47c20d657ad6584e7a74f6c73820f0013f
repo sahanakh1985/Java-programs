@@ -1,0 +1,9 @@
+
+Š	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8òí’«ø0HÃ9RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ù£·êıÿÿÿÿ8òí’«ø0HÄ9RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ïÍØƒ8òí’«ø0HÅ9RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(û£üùÿÿÿÿ8òí’«ø0HÆ9RMAJORZ
+CODE_SMELL

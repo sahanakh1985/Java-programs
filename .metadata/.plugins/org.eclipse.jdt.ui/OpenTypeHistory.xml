@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=Inheritance/src&lt;VehicleExample{Vehicle.java[Vehicle" modifiers="1" timestamp="1669328402065"/>
+    <typeInfo handle="=Inheritance/C:\/Users\/dell\/.p2\/pool\/plugins\/org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_17.0.5.v20221102-0933\/jre\/lib\/jrt-fs.jar`java.base=/javadoc_location=/https:\/\/docs.oracle.com\/en\/java\/javase\/17\/docs\/api\/=/=/module=/true=/&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1667406988000"/>
+    <typeInfo handle="=InheritanceChaining/src&lt;animalExample{Animal.java[Animal" modifiers="1" timestamp="1669534330040"/>
+    <typeInfo handle="=InheritanceChaining/src&lt;fruitexample{Fruit.java[Fruit" modifiers="1" timestamp="1669554932104"/>
+    <typeInfo handle="=InheritanceChaining/src&lt;vegetableexample{Vegetable.java[Vegetable" modifiers="1" timestamp="1669557060238"/>
+    <typeInfo handle="=InheritanceChaining/src&lt;weaponexample{Weapon.java[Weapon" modifiers="1" timestamp="1669558057266"/>
+    <typeInfo handle="=InheritanceMethodOverriding/src&lt;animalexample{Animal.java[Animal" modifiers="1" timestamp="1669706713610"/>
+    <typeInfo handle="=InheritanceMethodOverriding/src&lt;carexample{Car.java[Car" modifiers="1" timestamp="1669775184855"/>
+    <typeInfo handle="=TypeCasting/src&lt;upcasting_downcasting{Vehicle.java[Vehicle" modifiers="1" timestamp="1669951279369"/>
+    <typeInfo handle="=TypeCasting/src&lt;fruitexample{Fruit.java[Fruit" modifiers="1" timestamp="1670075282437"/>
+    <typeInfo handle="=TypeCasting/src&lt;vehicleexample{Vehicle.java[Vehicle" modifiers="1" timestamp="1670067839140"/>
+    <typeInfo handle="=TypeCasting/src&lt;gadgetexample{Gadget.java[Gadget" modifiers="1" timestamp="1670207364669"/>
+    <typeInfo handle="=Interface/src&lt;com.interfaceexampleupi{UPI.java[UPI" modifiers="513" timestamp="1670664994002"/>
+    <typeInfo handle="=Basic2/src&lt;com.day12{Animal.java[Animal" modifiers="1" timestamp="1686302240744"/>
+    <typeInfo handle="=RoughWork/src&lt;typcasting{Vehicle.java[Vehicle" modifiers="1025" timestamp="1688725741712"/>
+</typeInfoHistroy>

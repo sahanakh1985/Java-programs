@@ -1,0 +1,13 @@
+
+F
+java:S1220""Move this file to a named package.HÅ*RMINORZ
+CODE_SMELL
+g
+java:S1854"5Remove this useless assignment to local variable "s".(ã·.8€ÊÇÕ0HÉ*RMAJORZ
+CODE_SMELL
+m
+java:S1854"5Remove this useless assignment to local variable "s".(ÔğÛüÿÿÿÿ8€ÊÇÕ0HÊ*RMAJORZ
+CODE_SMELL
+^
+java:S1481"&Remove this unused "s" local variable.(ÔğÛüÿÿÿÿ8€ÊÇÕ0HË*RMINORZ
+CODE_SMELL

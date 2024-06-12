@@ -1,0 +1,19 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(•îû8ûÀ…È0H¤RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H¥RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÒçòÅøÿÿÿÿ8É‡¤…È0H¦RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÛŠ•Ë8ûÀ…È0H§RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ò¤µæ8É‡¤…È0H¨RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(‡õß8É‡¤…È0H©RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(éèç`8ûÀ…È0HªRMAJORZ
+CODE_SMELL
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(åÓÍßúÿÿÿÿ8É‡¤…È0H«RMAJORZ
+CODE_SMELL

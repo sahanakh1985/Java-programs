@@ -1,0 +1,12 @@
+
+¥
+java:S4165"mRemove this useless assignment; "serviceProvider" already holds the assigned value along all execution paths.(λ…όÿÿÿÿ8ΒάεΪΜ0HέRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(—°ψÿÿÿÿ8Μ•η΄Μ0HήRMAJORZ
+CODE_SMELL
+`
+java:S1656"/Remove or correct this useless self-assignment.(λ…όÿÿÿÿ8ΒάεΪΜ0HίRMAJORZBUG
+m
+java:S1172
+"5Remove this unused method parameter "servicProvider".(»μώÿÿÿÿ8ΒάεΪΜ0HΰRMAJORZ
+CODE_SMELL

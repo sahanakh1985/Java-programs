@@ -1,0 +1,15 @@
+
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(ŸÍàÆúÿÿÿÿ8´³´÷Ò0H¨ RMAJORZ
+CODE_SMELL
+p	java:S106+"9Replace this use of System.out or System.err by a logger.(Æ‘Æÿÿÿÿÿ8æ†áşÒ0H© RMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(„ÌÄ‡ûÿÿÿÿ8‡¦©ùÒ0Hª RMAJORZ
+CODE_SMELL
+‘
+java:S12102"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(Šï°úÿÿÿÿ8øİŞşÒ0H« RMINORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(Æ‘Æÿÿÿÿÿ8¶ ¾÷Ò0H¬ RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H­ RMINORZ
+CODE_SMELL

@@ -1,0 +1,36 @@
+
+F
+java:S1220""Move this file to a named package.Hí(RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(—ØÒı8¹åÂ˜Õ0Hÿ(RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‹çÄ8¹åÂ˜Õ0Hş(RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ôš˜°ÿÿÿÿÿ8ì‘¶˜Õ0Hø(RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(´›±²8ÎÇ˜Õ0H†)RMAJORZ
+CODE_SMELL
+‘
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8¹åÂ˜Õ0Hı(RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ8õëÎ˜Õ0H)RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(µÏ…èùÿÿÿÿ8õëÎ˜Õ0H)RMAJORZ
+CODE_SMELL
+‘
+java:S1171"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8¹åÂ˜Õ0Hü(RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(”¢‡îúÿÿÿÿ8ì‘¶˜Õ0Hù(RMAJORZ
+CODE_SMELL
+o
+java:S1854"7Remove this useless assignment to local variable "sb2".(…­Îîúÿÿÿÿ8´ÏØ˜Õ0H“)RMAJORZ
+CODE_SMELL
+o
+java:S1854"7Remove this useless assignment to local variable "sb1".(ŠÆÎÎùÿÿÿÿ8´ÏØ˜Õ0H”)RMAJORZ
+CODE_SMELL
+`
+java:S1481"(Remove this unused "sb1" local variable.(ŠÆÎÎùÿÿÿÿ8´ÏØ˜Õ0H•)RMINORZ
+CODE_SMELL
+`
+java:S1481"(Remove this unused "sb2" local variable.(…­Îîúÿÿÿÿ8´ÏØ˜Õ0H—)RMINORZ
+CODE_SMELL

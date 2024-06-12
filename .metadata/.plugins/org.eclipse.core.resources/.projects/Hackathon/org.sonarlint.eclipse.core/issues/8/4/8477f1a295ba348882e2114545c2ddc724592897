@@ -1,0 +1,13 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(º¼É°8†·Áãü0H¢DRMAJORZ
+CODE_SMELL
+R
+java:S1659"Declare "j" on a separate line.(ÖÒú8†·Áãü0H£DRMINORZ
+CODE_SMELL
+p	java:S106."9Replace this use of System.out or System.err by a logger.(›­¡Êşÿÿÿÿ8†·Áãü0H¥DRMAJORZ
+CODE_SMELL
+p	java:S1060"9Replace this use of System.out or System.err by a logger.(•¸´óıÿÿÿÿ8†·Áãü0H¦DRMAJORZ
+CODE_SMELL
+e
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8†·Áãü0H§DRMINORZ
+CODE_SMELL

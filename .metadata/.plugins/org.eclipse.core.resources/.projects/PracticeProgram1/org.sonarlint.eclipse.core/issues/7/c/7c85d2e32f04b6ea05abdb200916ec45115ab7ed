@@ -1,0 +1,15 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8ñÃóÚ×0H†.RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H‡.RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ñÃóÚ×0Hˆ.RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Æíİùÿÿÿÿ8§ÃåÚ×0H‰.RMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8ñÃóÚ×0HŠ.RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ8ñÃóÚ×0HŒ.RMAJORZ
+CODE_SMELL

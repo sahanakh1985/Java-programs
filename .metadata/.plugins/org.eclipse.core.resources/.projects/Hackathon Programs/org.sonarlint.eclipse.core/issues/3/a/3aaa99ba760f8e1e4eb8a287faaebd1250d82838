@@ -1,0 +1,16 @@
+
+]
+java:S1481"*Remove this unused "array" local variable.(›¨©í8ÕáôÜÿ0HÁERMINORZ
+CODE_SMELL
+k
+java:S1481"3Remove this unused "tempMergeArray" local variable.(¦İøÒüÿÿÿÿ8ÕáôÜÿ0HÂERMINORZ
+CODE_SMELL
+\
+java:S1197"*Move the array designators [] to the type.(õıÈ%8ÕáôÜÿ0HÃERMINORZ
+CODE_SMELL
+r
+java:S1854":Remove this useless assignment to local variable "middle".(¡« ñøÿÿÿÿ8ÕáôÜÿ0HÄERMAJORZ
+CODE_SMELL
+c
+java:S1481"+Remove this unused "middle" local variable.(¡« ñøÿÿÿÿ8ÕáôÜÿ0HÅERMINORZ
+CODE_SMELL

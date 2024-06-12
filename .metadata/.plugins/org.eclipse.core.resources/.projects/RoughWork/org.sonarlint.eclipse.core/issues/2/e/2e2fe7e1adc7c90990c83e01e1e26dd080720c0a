@@ -1,0 +1,13 @@
+
+g
+java:S1068	"/Remove this unused "totalAmount" private field.(ÑÿÝÍþÿÿÿÿ8ó¡–Õ”1H†WRMAJORZ
+CODE_SMELL
+b
+java:S1068"*Remove this unused "status" private field.(¦­œ˜ÿÿÿÿÿ8ó¡–Õ”1HˆWRMAJORZ
+CODE_SMELL
+f
+java:S1068"3Remove this unused "shippingAddress" private field.(Ò—¢¯8ó¡–Õ”1HŠWRMAJORZ
+CODE_SMELL
+^
+java:S1068"+Remove this unused "orderID" private field.(×¤Åä8ó¡–Õ”1HŒWRMAJORZ
+CODE_SMELL

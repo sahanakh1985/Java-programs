@@ -1,0 +1,14 @@
+
+k	java:S106""9Replace this use of System.out or System.err by a logger.(¬”«ğ8İÏ°ÈÉ0H€	RMAJORZ
+CODE_SMELL
+Z
+java:S1481"'Remove this unused "s2" local variable.(á™†8ÆÂÊÀÉ0HóRMINORZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8İÏ°ÈÉ0HòRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HñRMINORZ
+CODE_SMELL
+i
+java:S1854"6Remove this useless assignment to local variable "s2".(á™†8ÆÂÊÀÉ0HûRMAJORZ
+CODE_SMELL

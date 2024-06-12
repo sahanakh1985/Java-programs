@@ -1,0 +1,23 @@
+package com.day4.operators;
+
+public class SampleOperatrs {
+	public static void main(String[] args) {
+		int a = 5;
+
+		System.out.println(++a); // 6
+		System.out.println(a++);// 6
+		System.out.println(a);
+		System.out.println(--a);
+		System.out.println(a--);
+		System.out.println(a);
+
+		System.out.println(3 + 4); // 7
+		System.out.println(10 - 3); // 7
+
+		System.out.println(5 * 4); // 20
+		System.out.println(6 / 8); // 0
+		System.out.println(3 % 5); // 3
+
+	}
+
+}

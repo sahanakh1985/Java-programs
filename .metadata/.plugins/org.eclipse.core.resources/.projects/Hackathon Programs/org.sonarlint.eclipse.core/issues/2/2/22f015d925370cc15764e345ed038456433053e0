@@ -1,0 +1,9 @@
+
+o
+java:S1854	"7Remove this useless assignment to local variable "arr".(ê¥±Ÿøÿÿÿÿ8ÎÊëéû0Hô@RMAJORZ
+CODE_SMELL
+`
+java:S1481	"(Remove this unused "arr" local variable.(ê¥±Ÿøÿÿÿÿ8ÎÊëéû0Hõ@RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ç’¤™8ÎÊëéû0H÷@RMAJORZ
+CODE_SMELL

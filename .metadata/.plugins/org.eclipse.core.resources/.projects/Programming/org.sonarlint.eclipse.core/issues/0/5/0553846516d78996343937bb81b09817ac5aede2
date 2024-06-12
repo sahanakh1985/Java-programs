@@ -1,0 +1,12 @@
+
+—
+java:S4165'"_Remove this useless assignment; "n" already holds the assigned value along all execution paths.(´åÀßúÿÿÿÿ8üúøàÏ0HÎ8RMAJORZ
+CODE_SMELL
+p	java:S106*"9Replace this use of System.out or System.err by a logger.(ŠÈÿÓÿÿÿÿÿ8ªìÇàÏ0HÍ8RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‚ãÔæıÿÿÿÿ8ªìÇàÏ0HÏ8RMAJORZ
+CODE_SMELL
+s	java:S125-"<This block of commented-out lines of code should be removed.(€…¼Ïÿÿÿÿÿ8üúøàÏ0HÑ8RMAJORZ
+CODE_SMELL
+m	java:S125"<This block of commented-out lines of code should be removed.(ë§”T8¸€ààÏ0HĞ8RMAJORZ
+CODE_SMELL

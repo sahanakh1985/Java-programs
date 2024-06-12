@@ -1,0 +1,19 @@
+package com.day4.operators;
+
+public class SampleOperators1 {
+	public static void main(String[] args) {
+		//Unary operator
+		
+		int x=5;
+		System.out.println(++x); //6
+		System.out.println(x++);//5
+		System.out.println(x); //6
+		System.out.println(--x); //5
+		System.out.println(x--);//6
+		System.out.println(x); //5
+		
+		
+		
+	}
+
+}

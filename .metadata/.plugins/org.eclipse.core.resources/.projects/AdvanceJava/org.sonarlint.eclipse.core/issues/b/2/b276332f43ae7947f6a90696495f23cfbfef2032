@@ -1,0 +1,33 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(…®—¬ýÿÿÿÿ8É™ÒêÉ0Hú	RMAJORZ
+CODE_SMELL
+X
+java:S1481"&Remove this unused "b" local variable.(â«ÛH8‘Ê¯‚Ê0Hý	RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ì¬ü±ùÿÿÿÿ8‘Ê¯‚Ê0Hü	RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(£—Íù8‘Ê¯‚Ê0Hÿ	RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Éêÿñüÿÿÿÿ8‘Ê¯‚Ê0Hù	RMAJORZ
+CODE_SMELL
+^
+java:S1481"&Remove this unused "c" local variable.(îÎ¬Üýÿÿÿÿ8ÖÕ´‚Ê0H€
+RMINORZ
+CODE_SMELL
+m	java:S125#"<This block of commented-out lines of code should be removed.(´Ÿ M8‘Ê¯‚Ê0Hû	RMAJORZ
+CODE_SMELL
+m
+java:S1854"5Remove this useless assignment to local variable "c".(îÎ¬Üýÿÿÿÿ8ÖÕ´‚Ê0Hƒ
+RMAJORZ
+CODE_SMELL
+g
+java:S1854"5Remove this useless assignment to local variable "b".(â«ÛH8‘Ê¯‚Ê0Hö	RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¦ø–þ8É™ÒêÉ0H÷	RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¢ë›åýÿÿÿÿ8‘Ê¯‚Ê0Hø	RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H‚
+RMINORZ
+CODE_SMELL

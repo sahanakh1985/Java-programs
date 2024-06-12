@@ -1,0 +1,18 @@
+
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8´¸µÿõ0HŒ3RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‹µ‹¶ıÿÿÿÿ8±‡ ÿõ0H3RMAJORZ
+CODE_SMELL
+j
+java:S2589"8Remove this expression which always evaluates to "false"(‡Ö 8€ö¥ÿõ0H3RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(×•œ²8±‡ ÿõ0H3RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(È Ô…8±‡ ÿõ0H‘3RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H’3RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8±‡ ÿõ0H“3RMAJORZ
+CODE_SMELL

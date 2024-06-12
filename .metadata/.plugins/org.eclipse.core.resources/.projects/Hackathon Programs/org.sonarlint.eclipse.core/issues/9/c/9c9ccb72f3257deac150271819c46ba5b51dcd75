@@ -1,0 +1,21 @@
+
+p
+java:S1854
+"8Remove this useless assignment to local variable "arr2".(³ÍˆÄþÿÿÿÿ8éƒŠìû0H­ARMAJORZ
+CODE_SMELL
+a
+java:S1481
+")Remove this unused "arr2" local variable.(³ÍˆÄþÿÿÿÿ8éƒŠìû0H®ARMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(×Æáî8ÀýØëû0H°ARMAJORZ
+CODE_SMELL
+p
+java:S1854"8Remove this useless assignment to local variable "arr3".(ã’§êøÿÿÿÿ8éƒŠìû0H±ARMAJORZ
+CODE_SMELL
+[	java:S108")Either remove or fill this block of code.(ß¢Ô’8¨ÔÞëû0H²ARMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ù£·êýÿÿÿÿ8žÝðëû0H³ARMAJORZ
+CODE_SMELL
+a
+java:S1481")Remove this unused "arr3" local variable.(ã’§êøÿÿÿÿ8éƒŠìû0H´ARMINORZ
+CODE_SMELL

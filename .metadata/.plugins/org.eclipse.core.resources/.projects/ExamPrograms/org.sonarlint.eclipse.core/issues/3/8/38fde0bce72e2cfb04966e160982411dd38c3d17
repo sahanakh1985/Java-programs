@@ -1,0 +1,19 @@
+
+k	java:S106	"9Replace this use of System.out or System.err by a logger.(×®ĞŸ8ù‘ˆ¦ù0H“ERMAJORZ
+CODE_SMELL
+p	java:S106&"9Replace this use of System.out or System.err by a logger.(›‘ÓÓÿÿÿÿÿ8è“Â¦ù0H”ERMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(–½ˆŒüÿÿÿÿ8à½¦ù0H•ERMAJORZ
+CODE_SMELL
+Š	java:S127 "XRefactor the code in order to not assign to this loop counter from within the loop body.(¯ÀÚè8à½¦ù0H–ERMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ËÖéÇ8ØÁ‚¦ù0H—ERMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(«˜Ÿ«ıÿÿÿÿ8ØÁ‚¦ù0H˜ERMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¹ªŒÿüÿÿÿÿ8ù‘ˆ¦ù0H™ERMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(¯”™»üÿÿÿÿ8è“Â¦ù0HšERMAJORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(Œ¯†ğıÿÿÿÿ8è“Â¦ù0H›ERMAJORZ
+CODE_SMELL

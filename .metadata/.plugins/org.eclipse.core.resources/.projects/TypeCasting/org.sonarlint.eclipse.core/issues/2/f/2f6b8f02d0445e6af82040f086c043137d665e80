@@ -1,0 +1,15 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ó±òøÿÿÿÿ8œÚ­‡Í0HºRMAJORZ
+CODE_SMELL
+‹
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "t".(ÆŞÓJ8œÚ­‡Í0H¶RMINORZ
+CODE_SMELL
+‘
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "b".(ù¤¬üÿÿÿÿ8œÚ­‡Í0H²RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ÙÔó¬8œÚ­‡Í0H±RMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(ùÑ×”üÿÿÿÿ8Şï¼‡Í0H¹RMAJORZ
+CODE_SMELL
+k	java:S106 "9Replace this use of System.out or System.err by a logger.(Ó…ÖÌ8Şï¼‡Í0HµRMAJORZ
+CODE_SMELL

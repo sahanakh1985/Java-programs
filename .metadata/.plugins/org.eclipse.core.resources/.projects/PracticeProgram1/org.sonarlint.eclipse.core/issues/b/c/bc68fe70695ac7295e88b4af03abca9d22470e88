@@ -1,0 +1,28 @@
+
+p	java:S1067"9Replace this use of System.out or System.err by a logger.(œâ¦‹ûÿÿÿÿ8»‘Èıø0HŸ:RMAJORZ
+CODE_SMELL
+k	java:S106."9Replace this use of System.out or System.err by a logger.(ë—Òä8òËüø0H :RMAJORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(œâ¦‹ûÿÿÿÿ8êÉ¦üø0H¡:RMAJORZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(ÁøÌ¸üÿÿÿÿ8ÏõÀùø0H¢:RMAJORZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(œâ¦‹ûÿÿÿÿ8òËüø0H£:RMAJORZ
+CODE_SMELL
+k	java:S1069"9Replace this use of System.out or System.err by a logger.(ëÎ¸8Šè±—ù0H¤:RMAJORZ
+CODE_SMELL
+Œ
+java:S1210A"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(º““Æ8Šè±—ù0H¥:RMINORZ
+CODE_SMELL
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(œâ¦‹ûÿÿÿÿ8¤‚ªùø0H¦:RMAJORZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(üÉ¹Œûÿÿÿÿ8òËüø0H§:RMAJORZ
+CODE_SMELL
+p	java:S106,"9Replace this use of System.out or System.err by a logger.(œâ¦‹ûÿÿÿÿ8êÉ¦üø0H¨:RMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(œâ¦‹ûÿÿÿÿ8±¹ùø0H©:RMAJORZ
+CODE_SMELL
+p	java:S1064"9Replace this use of System.out or System.err by a logger.(¾û¯ıùÿÿÿÿ8»‘Èıø0Hª:RMAJORZ
+CODE_SMELL
+p	java:S106<"9Replace this use of System.out or System.err by a logger.(œâ¦‹ûÿÿÿÿ8Šè±—ù0H«:RMAJORZ
+CODE_SMELL

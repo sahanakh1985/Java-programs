@@ -1,0 +1,18 @@
+
+public class Score {
+	int subjecct1;
+	int subjecct2;
+	int subjecct3;
+
+	public Score(int subjecct1, int subjecct2, int subjecct3) {
+		this.subjecct1 = subjecct1;
+		this.subjecct2 = subjecct2;
+		this.subjecct3 = subjecct3;
+	}
+
+	@Override
+	public String toString() {
+		return "Score [subjecct1=" + subjecct1 + ", subjecct2=" + subjecct2 + ", subjecct3=" + subjecct3 + "]";
+	}
+
+}

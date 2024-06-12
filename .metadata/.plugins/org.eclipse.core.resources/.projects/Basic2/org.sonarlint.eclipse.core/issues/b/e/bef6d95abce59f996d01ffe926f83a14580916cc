@@ -1,0 +1,16 @@
+
+k	java:S106	"9Replace this use of System.out or System.err by a logger.(Ëµ–Î8¼è¶æ…1HãJRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(³·—8ðÜÌæ…1HäJRMAJORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8ëçÔæ…1HåJRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(é¼Ã´ùÿÿÿÿ8ëçÔæ…1HçJRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ8ëçÔæ…1HèJRMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(âžÇÐøÿÿÿÿHéJRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ß°µë8¼è¶æ…1HêJRMAJORZ
+CODE_SMELL

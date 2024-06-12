@@ -1,0 +1,10 @@
+package VehicleExample;
+
+public class Bike extends Vehicle {
+	boolean saKikkerAvailable;
+	
+	void kick() {
+		System.out.println("kick start");
+	}
+
+}

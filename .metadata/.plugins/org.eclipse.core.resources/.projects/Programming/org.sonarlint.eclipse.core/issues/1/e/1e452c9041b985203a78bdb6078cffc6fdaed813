@@ -1,0 +1,13 @@
+
+l
+java:S1994"6Move the update of "i" into this loop's update clause.(ı”Û³8êì”«ø0HÌ9RCRITICALZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ù£·êıÿÿÿÿHÀ9RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ïÍØƒHÁ9RMAJORZ
+CODE_SMELL
+Š
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ïÏ¦îÿÿÿÿÿH¿9RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(û£üùÿÿÿÿHÂ9RMAJORZ
+CODE_SMELL

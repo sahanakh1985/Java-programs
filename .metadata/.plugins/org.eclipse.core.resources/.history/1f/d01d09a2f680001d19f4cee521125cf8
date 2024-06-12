@@ -1,0 +1,26 @@
+package com.sortingofflightobjectsexample;
+
+public class Flight {
+	int flightNo;
+	String flightName;
+	int noOfSeats;
+	double costPerTicket;
+
+	public Flight(int flightNo, String flightName, int noOfSeats, double costPerTicket) {
+		this.flightNo = flightNo;
+		this.flightName = flightName;
+		this.noOfSeats = noOfSeats;
+		this.costPerTicket = costPerTicket;
+	}
+
+	@Override
+	public String toString() {
+		return "Flight [flightNo=" + flightNo + ", flightName=" + flightName + ", noOfSeats=" + noOfSeats
+				+ ", costPerTicket=" + costPerTicket + "]";
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}

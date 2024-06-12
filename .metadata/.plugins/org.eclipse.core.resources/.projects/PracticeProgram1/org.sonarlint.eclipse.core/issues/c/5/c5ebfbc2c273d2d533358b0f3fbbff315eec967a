@@ -1,0 +1,16 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Áªø8‘ÂË÷0H¬6RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(°˜‡Ï8‘ÂË÷0H­6RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ğè¾“ûÿÿÿÿ8‘ÂË÷0H®6RMAJORZ
+CODE_SMELL
+p
+java:S1854"8Remove this useless assignment to local variable "obj1".(Úë¦‡úÿÿÿÿ8‘ÂË÷0H¯6RMAJORZ
+CODE_SMELL
+k	java:S106
+"9Replace this use of System.out or System.err by a logger.(î±‚¬8‘¡ÙÊ÷0H°6RMAJORZ
+CODE_SMELL
+a
+java:S1481")Remove this unused "obj1" local variable.(Úë¦‡úÿÿÿÿ8‘ÂË÷0H±6RMINORZ
+CODE_SMELL

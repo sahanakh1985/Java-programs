@@ -1,0 +1,12 @@
+
+public class SampleIncrementOperators {
+	public static void main(String[] args) {
+		int x=25;
+		int y=x++;
+		int y=++x;
+		System.out.println(x++);
+		System.out.println(y);
+		System.out.println(y);
+	}
+
+}

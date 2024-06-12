@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;g&apos; in &apos;Utility.main(...)&apos; to &apos;u&apos;&#x0D;&#x0A;- Original project: &apos;AdvanceJava&apos;&#x0D;&#x0A;- Original element: &apos;Utility.main(String[]).g&apos;&#x0D;&#x0A;- Renamed element: &apos;g&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;g&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;{Utility.java[Utility~main~\[QString;@g!412!437!420!420!QUtility;!0!false" name="u" references="true" stamp="1668508314950" version="1.0"/>
+</session>

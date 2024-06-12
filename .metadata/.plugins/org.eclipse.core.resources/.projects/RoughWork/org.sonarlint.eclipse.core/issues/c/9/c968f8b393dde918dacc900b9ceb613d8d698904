@@ -1,0 +1,13 @@
+
+a
+java:S2387","color" is the name of a field in "Vehicle".(¿·àÈ8þÇ—ÿ’1H…SRBLOCKERZ
+CODE_SMELL
+a
+java:S2387","brand" is the name of a field in "Vehicle".(œùØ©8þÇ—ÿ’1H†SRBLOCKERZ
+CODE_SMELL
+f
+java:S2387","price" is the name of a field in "Vehicle".(®Àô†ùÿÿÿÿ8þÇ—ÿ’1H‡SRBLOCKERZ
+CODE_SMELL
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(ûÁð¸ûÿÿÿÿ8þÇ—ÿ’1HˆSRMAJORZ
+CODE_SMELL

@@ -1,0 +1,17 @@
+
+‘
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "result".(âäé8¥îÃ´Ç0H€RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¾ı›Ğøÿÿÿÿ8¥îÃ´Ç0HƒRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ñÿ¼ëùÿÿÿÿ8¥îÃ´Ç0H„RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(ŒßÀ8•Å¹¶Ç0H…RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‚é€Şûÿÿÿÿ8¼Ğ¨¶Ç0H†RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ŸÎÒøÿÿÿÿ8¥îÃ´Ç0H‡RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HˆRMINORZ
+CODE_SMELL

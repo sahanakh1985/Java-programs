@@ -1,0 +1,15 @@
+
+k
+java:S1128"9Remove this unused import 'java.security.DomainCombiner'.(ç¦›8ÔÀº”Ê0H¦
+RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¶ï ñ8ÔÀº”Ê0H¨
+RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(³Íïşÿÿÿÿ8ÔÀº”Ê0H©
+RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.Hª
+RMINORZ
+CODE_SMELL

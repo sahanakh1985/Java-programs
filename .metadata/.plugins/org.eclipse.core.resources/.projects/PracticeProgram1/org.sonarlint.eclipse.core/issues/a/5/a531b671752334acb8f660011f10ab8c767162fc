@@ -1,0 +1,18 @@
+
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(¤ËŠµùÿÿÿÿ8èŞ±Îö0H¥4RMAJORZ
+CODE_SMELL
+p	java:S1060"9Replace this use of System.out or System.err by a logger.(¡÷¾Ãüÿÿÿÿ8èŞ±Îö0H£4RMAJORZ
+CODE_SMELL
+k	java:S106%"9Replace this use of System.out or System.err by a logger.(ÙÔó¬8èŞ±Îö0H©4RMAJORZ
+CODE_SMELL
+p	java:S106""9Replace this use of System.out or System.err by a logger.(¢ØçÏÿÿÿÿÿ8èŞ±Îö0H¦4RMAJORZ
+CODE_SMELL
+k
+java:S1128"9Remove this unused import 'java.security.DomainCombiner'.(ç¦›8‹§‡Îö0H˜4RMINORZ
+CODE_SMELL
+p	java:S106#"9Replace this use of System.out or System.err by a logger.(Äñ±Öøÿÿÿÿ8èŞ±Îö0H§4RMAJORZ
+CODE_SMELL
+k	java:S106*"9Replace this use of System.out or System.err by a logger.(Ó…ÖÌ8èŞ±Îö0H¨4RMAJORZ
+CODE_SMELL
+p	java:S106$"9Replace this use of System.out or System.err by a logger.(Ó±òøÿÿÿÿ8èŞ±Îö0H¤4RMAJORZ
+CODE_SMELL

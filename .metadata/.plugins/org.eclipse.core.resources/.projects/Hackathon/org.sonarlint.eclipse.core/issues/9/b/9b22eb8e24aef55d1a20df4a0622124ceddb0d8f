@@ -1,0 +1,16 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(ÿÑæ‡ıÿÿÿÿ8Ù¿ÇÅÇ1HÁYRMAJORZ
+CODE_SMELL
+y
+java:S1659	"FDeclare "remainder" and all following declarations on a separate line.(äèÅî8Ù¿ÇÅÇ1HÂYRMINORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Ş¦¼A8Ù¿ÇÅÇ1HÈYRMAJORZ
+CODE_SMELL
+k	java:S106""9Replace this use of System.out or System.err by a logger.(è˜¿8Ù¿ÇÅÇ1HÉYRMAJORZ
+CODE_SMELL
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(³¦Ù¿8Ù¿ÇÅÇ1HÊYRMAJORZ
+CODE_SMELL
+p	java:S106."9Replace this use of System.out or System.err by a logger.(ü«¢ğùÿÿÿÿ8Ù¿ÇÅÇ1HËYRMAJORZ
+CODE_SMELL
+j	java:S1063"9Replace this use of System.out or System.err by a logger.(ÇÑ×8Ù¿ÇÅÇ1HÌYRMAJORZ
+CODE_SMELL

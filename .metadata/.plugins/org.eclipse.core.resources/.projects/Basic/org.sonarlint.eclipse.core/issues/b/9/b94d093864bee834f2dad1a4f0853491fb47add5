@@ -1,0 +1,20 @@
+
+p	java:S106
+"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ö©Ãï½1HäVRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(•¬ìª8ö©Ãï½1HãVRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(­§£øÿÿÿÿ8²£Òï½1HéVRMAJORZ
+CODE_SMELL
+Š
+java:S2142	"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8²£Òï½1HæVRMAJORZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(­¶Üµúÿÿÿÿ8²£Òï½1HèVRMAJORZ
+CODE_SMELL
+m
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8ö©Ãï½1HáVRMAJORZ
+CODE_SMELL
+Š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8”±Õï½1HíVRMAJORZBUG
+i
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8”±Õï½1HîVRINFOZ
+CODE_SMELL

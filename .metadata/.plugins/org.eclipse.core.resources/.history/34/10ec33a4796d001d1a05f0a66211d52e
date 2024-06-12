@@ -1,0 +1,12 @@
+package VehicleExample;
+
+public class RunnerVehicleExample {
+	public static void main(String[] args) {
+		
+		Truck t=new Truck();
+		System.out.println(t);
+		
+		
+	}
+
+}

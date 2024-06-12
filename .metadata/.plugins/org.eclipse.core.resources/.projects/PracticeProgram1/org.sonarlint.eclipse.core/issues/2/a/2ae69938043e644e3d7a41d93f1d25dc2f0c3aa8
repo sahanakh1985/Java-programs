@@ -1,0 +1,20 @@
+
+T
+java:S2201"(The return value of "size" must be used.(°æÃ‰8Ø£ãøù0Hª>RMAJORZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¯‚Õ´øÿÿÿÿ8Ø£ãøù0H°>RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.( ú¡¤ÿÿÿÿÿ8Ø£ãøù0H«>RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÈÝáÞùÿÿÿÿ8Ø£ãøù0H¯>RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÓŠˆøÿÿÿÿÿ8…°èøù0H³>RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(§Ë®¾ÿÿÿÿÿ8Ø£ãøù0H®>RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.( ú¡¤ÿÿÿÿÿ8Ø£ãøù0H­>RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(³Ôìºúÿÿÿÿ8Ø£ãøù0H¬>RMAJORZ
+CODE_SMELL
+c
+java:S1128"1Remove this unused import 'java.util.LinkedList'.(»Äð18²­öøù0H¹>RMINORZ
+CODE_SMELL

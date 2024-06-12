@@ -1,0 +1,28 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(„êè©úÿÿÿÿH’ORMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿH“ORMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡ÜH”ORMAJORZ
+CODE_SMELL
+i	java:S106*"9Replace this use of System.out or System.err by a logger.(„êè©úÿÿÿÿH•ORMAJORZ
+CODE_SMELL
+c	java:S106"9Replace this use of System.out or System.err by a logger.(Ò•ÄzH–ORMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(„êè©úÿÿÿÿH—ORMAJORZ
+CODE_SMELL
+i	java:S106&"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿH˜ORMAJORZ
+CODE_SMELL
+
+java:S1192"[Define a constant instead of duplicating this literal "After assigning the values" 3 times.(„êè©úÿÿÿÿH™ORCRITICALZ
+CODE_SMELL
+i	java:S106+"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿHORMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡ÜHORMAJORZ
+CODE_SMELL
+c	java:S106""9Replace this use of System.out or System.err by a logger.(Ò•ÄzHŸORMAJORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.( É§şÿÿÿÿH ORMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿH¡ORMAJORZ
+CODE_SMELL

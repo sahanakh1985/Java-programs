@@ -1,0 +1,6 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(²Æ–Øýÿÿÿÿ8šó«êû0Hÿ@RMAJORZ
+CODE_SMELL
+a
+java:S1481")Remove this unused "even" local variable.(¿ÿ±¡ûÿÿÿÿ8·›²êû0Hü@RMINORZ
+CODE_SMELL

@@ -1,0 +1,32 @@
+
+™
+java:S4165"fRemove this useless assignment; "subject1" already holds the assigned value along all execution paths.(ç´á®8ù€ÍµÊ0HÚ
+RMAJORZ
+CODE_SMELL
+[
+java:S1656"/Remove or correct this useless self-assignment.(ç´á®8ù€ÍµÊ0HÛ
+RMAJORZBUG
+`
+java:S1656
+"/Remove or correct this useless self-assignment.(˜²¶Àùÿÿÿÿ8ù€ÍµÊ0HÜ
+RMAJORZBUG
+
+java:S1172"LRemove these unused method parameters "subjecct1", "subjecct2", "subjecct3".(çäÞ¾8ù€ÍµÊ0HÝ
+RMAJORZ
+CODE_SMELL
+ž
+java:S4165	"fRemove this useless assignment; "subject2" already holds the assigned value along all execution paths.(Ò¬Óúüÿÿÿÿ8ù€ÍµÊ0Hã
+RMAJORZ
+CODE_SMELL
+ž
+java:S4165
+"fRemove this useless assignment; "subject3" already holds the assigned value along all execution paths.(˜²¶Àùÿÿÿÿ8ù€ÍµÊ0Hä
+RMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.Hå
+RMINORZ
+CODE_SMELL
+`
+java:S1656	"/Remove or correct this useless self-assignment.(Ò¬Óúüÿÿÿÿ8ù€ÍµÊ0Hæ
+RMAJORZBUG

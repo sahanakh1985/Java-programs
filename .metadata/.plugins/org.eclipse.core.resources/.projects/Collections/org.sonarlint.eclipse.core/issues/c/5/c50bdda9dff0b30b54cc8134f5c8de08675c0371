@@ -1,0 +1,19 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(²ã‹É8Å‰‰ÔÓ0HÄ%RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Û‹ Í8Å‰‰ÔÓ0HÅ%RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(›»°øÿÿÿÿ8Å‰‰ÔÓ0HÆ%RMAJORZ
+CODE_SMELL
+\
+java:S2175"0A "ArrayList<Character>" cannot contain a "int".(Û‹ Í8§ÃùÓÓ0HÇ%RMAJORZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(º«–øÿÿÿÿ8Å‰‰ÔÓ0HÈ%RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(îÖÅ†ıÿÿÿÿ8Å‰‰ÔÓ0HÉ%RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(…Ü¡óùÿÿÿÿ8ˆ¨€ÔÓ0HÊ%RMAJORZ
+CODE_SMELL
+Y
+java:S2114"(Remove or correct this "removeAll" call.(º«–øÿÿÿÿ8§ÃùÓÓ0HË%RMAJORZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ç¿Ÿµùÿÿÿÿ8Å‰‰ÔÓ0HÌ%RMAJORZ
+CODE_SMELL

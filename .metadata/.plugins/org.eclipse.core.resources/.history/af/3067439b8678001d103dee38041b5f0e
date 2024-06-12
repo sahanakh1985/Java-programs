@@ -1,0 +1,29 @@
+package com.armstrongnumber;
+
+import java.util.Scanner;
+
+public class ArmstrongNumber {
+	static int countDigit(int n) {
+		int count = 0;
+		while (n > 0) {
+			count++;
+			n %= 10;
+		}
+		return count;
+	}
+
+	static int pow(int m, int n) {
+		int res = 1;
+		for (int i = 1; i <= n; i++) {
+			res = res * m;
+
+		}
+		return res;
+	}
+
+	public static void main(String[] args) {
+		System.out.println("Enter the value of n");
+		int n = new Scanner(System.in).nextInt();
+	}
+
+}

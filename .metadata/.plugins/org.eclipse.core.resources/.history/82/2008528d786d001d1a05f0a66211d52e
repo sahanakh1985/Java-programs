@@ -1,0 +1,10 @@
+package VehicleExample;
+
+public class Truck extends Vehicle {
+	int loadCapacity;
+
+	void dropLoad() {
+		System.out.println("Drop the load from truck");
+	}
+
+}

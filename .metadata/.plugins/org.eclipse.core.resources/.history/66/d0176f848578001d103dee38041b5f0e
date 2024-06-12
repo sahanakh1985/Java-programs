@@ -1,0 +1,22 @@
+package com.armstrongnumber;
+
+public class ArmstrongNumber {
+	static int countDigit() {
+		int count = 0;
+		while (n > 0) {
+			count++;
+			n %= 10;
+		}
+		return count;
+	}
+
+	static int pow(int m, int n) {
+		int res = 1;
+		for (int i = 1; i <= n; i++) {
+			res = res * m;
+
+		}
+		return res;
+	}
+
+}
